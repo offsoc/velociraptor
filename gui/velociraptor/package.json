@@ -89,14 +89,14 @@
         "@babel/plugin-transform-react-jsx": "^7.25.2",
         "@babel/preset-react": "^7.18.6",
         "@testing-library/react": "12",
-        "@vitejs/plugin-react": "^3.0.0",
+        "@vitejs/plugin-react": "^4.5.0",
         "dotenv": "^8.6.0",
         "eslint": "^8.35.0",
         "eslint-config-react-app": "7.0.1",
         "eslint-plugin-import": "^2.27.5",
         "eslint-plugin-jsx-a11y": "^6.7.1",
         "eslint-plugin-react": "^7.32.2",
-        "vite": "^4.5.14",
+        "vite": "^6.3.5",
         "vite-plugin-compression": "^0.5.1",
         "vite-plugin-eslint": "1.8.1"
     }
